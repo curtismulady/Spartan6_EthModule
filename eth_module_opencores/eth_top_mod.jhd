@@ -1,0 +1,3 @@
+MODULE eth_top_mod
+	SUBMODULE EthernetModule
+		INSTANCE XLXI_1

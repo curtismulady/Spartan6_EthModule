@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/cmulady/Documents/XILINX/eth_module_opencores/eth_top_mod_eth_top_mod_sch_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="eth_top_mod_eth_top_mod_sch_tb" />
+            <top_module name="glbl" />
+            <top_module name="numeric_std" />
+            <top_module name="std_logic_1164" />
+            <top_module name="vcomponents" />
+            <top_module name="vl_types" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="33" />
+   <wvobject fp_name="/eth_top_mod_eth_top_mod_sch_tb/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eth_top_mod_eth_top_mod_sch_tb/clk_10k" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk_10k</obj_property>
+      <obj_property name="ObjectShortName">clk_10k</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eth_top_mod_eth_top_mod_sch_tb/ff_clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ff_clk</obj_property>
+      <obj_property name="ObjectShortName">ff_clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eth_top_mod_eth_top_mod_sch_tb/ff_en_sink" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ff_en_sink</obj_property>
+      <obj_property name="ObjectShortName">ff_en_sink</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eth_top_mod_eth_top_mod_sch_tb/ff_data_sink" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ff_data_sink</obj_property>
+      <obj_property name="ObjectShortName">ff_data_sink</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eth_top_mod_eth_top_mod_sch_tb/phy_rxclk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">phy_rxclk</obj_property>
+      <obj_property name="ObjectShortName">phy_rxclk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eth_top_mod_eth_top_mod_sch_tb/phy_rxer" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">phy_rxer</obj_property>
+      <obj_property name="ObjectShortName">phy_rxer</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eth_top_mod_eth_top_mod_sch_tb/phy_rxd" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">phy_rxd[3:0]</obj_property>
+      <obj_property name="ObjectShortName">phy_rxd[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eth_top_mod_eth_top_mod_sch_tb/phy_crs" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">phy_crs</obj_property>
+      <obj_property name="ObjectShortName">phy_crs</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eth_top_mod_eth_top_mod_sch_tb/phy_linksts" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">phy_linksts</obj_property>
+      <obj_property name="ObjectShortName">phy_linksts</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eth_top_mod_eth_top_mod_sch_tb/phy_col" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">phy_col</obj_property>
+      <obj_property name="ObjectShortName">phy_col</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eth_top_mod_eth_top_mod_sch_tb/phy_txclk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">phy_txclk</obj_property>
+      <obj_property name="ObjectShortName">phy_txclk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eth_top_mod_eth_top_mod_sch_tb/phy_rxen" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">phy_rxen</obj_property>
+      <obj_property name="ObjectShortName">phy_rxen</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eth_top_mod_eth_top_mod_sch_tb/phy_txd" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">phy_txd[3:0]</obj_property>
+      <obj_property name="ObjectShortName">phy_txd[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eth_top_mod_eth_top_mod_sch_tb/UUT/XLXI_1/TxModule_inst/CrcError" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">CrcError</obj_property>
+      <obj_property name="ObjectShortName">CrcError</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eth_top_mod_eth_top_mod_sch_tb/UUT/XLXI_1/TxModule_inst/txcrc/Enable" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Enable</obj_property>
+      <obj_property name="ObjectShortName">Enable</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eth_top_mod_eth_top_mod_sch_tb/UUT/XLXI_1/TxModule_inst/txcrc/Initialize" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Initialize</obj_property>
+      <obj_property name="ObjectShortName">Initialize</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eth_top_mod_eth_top_mod_sch_tb/UUT/XLXI_1/TxModule_inst/txcrc/Clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Clk</obj_property>
+      <obj_property name="ObjectShortName">Clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eth_top_mod_eth_top_mod_sch_tb/UUT/XLXI_1/TxModule_inst/txcrc/Reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Reset</obj_property>
+      <obj_property name="ObjectShortName">Reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eth_top_mod_eth_top_mod_sch_tb/t4" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">t4</obj_property>
+      <obj_property name="ObjectShortName">t4</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eth_top_mod_eth_top_mod_sch_tb/t3" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">t3</obj_property>
+      <obj_property name="ObjectShortName">t3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eth_top_mod_eth_top_mod_sch_tb/t2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">t2</obj_property>
+      <obj_property name="ObjectShortName">t2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eth_top_mod_eth_top_mod_sch_tb/t1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">t1</obj_property>
+      <obj_property name="ObjectShortName">t1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eth_top_mod_eth_top_mod_sch_tb/phy_reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">phy_reset</obj_property>
+      <obj_property name="ObjectShortName">phy_reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eth_top_mod_eth_top_mod_sch_tb/phy_txer" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">phy_txer</obj_property>
+      <obj_property name="ObjectShortName">phy_txer</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eth_top_mod_eth_top_mod_sch_tb/phy_txen" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">phy_txen</obj_property>
+      <obj_property name="ObjectShortName">phy_txen</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eth_top_mod_eth_top_mod_sch_tb/ff_data_src" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ff_data_src</obj_property>
+      <obj_property name="ObjectShortName">ff_data_src</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eth_top_mod_eth_top_mod_sch_tb/ff_en_src" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ff_en_src</obj_property>
+      <obj_property name="ObjectShortName">ff_en_src</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eth_top_mod_eth_top_mod_sch_tb/startrx" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">startrx</obj_property>
+      <obj_property name="ObjectShortName">startrx</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eth_top_mod_eth_top_mod_sch_tb/starttx" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">starttx</obj_property>
+      <obj_property name="ObjectShortName">starttx</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eth_top_mod_eth_top_mod_sch_tb/ffclkperiod" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">ffclkperiod</obj_property>
+      <obj_property name="ObjectShortName">ffclkperiod</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eth_top_mod_eth_top_mod_sch_tb/txclkperiod" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">txclkperiod</obj_property>
+      <obj_property name="ObjectShortName">txclkperiod</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eth_top_mod_eth_top_mod_sch_tb/clk10kperiod" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">clk10kperiod</obj_property>
+      <obj_property name="ObjectShortName">clk10kperiod</obj_property>
+   </wvobject>
+</wave_config>

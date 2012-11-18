@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/cmulady/Documents/XILINX/eth_module_opencores/eth_top_mod_eth_top_mod_sch_tb_isim_beh.exe" -prj "C:/Users/cmulady/Documents/XILINX/eth_module_opencores/eth_top_mod_eth_top_mod_sch_tb_beh.prj" "work.eth_top_mod_eth_top_mod_sch_tb" "work.glbl" 

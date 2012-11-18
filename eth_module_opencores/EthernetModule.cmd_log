@@ -1,0 +1,12 @@
+vhdtdtfi -lib work C:/Users/cmulady/Documents/XILINX/eth_module_opencores/EthernetModule.v -lang verilog -prj eth_module_opencores -o EthernetModule.spl -module EthernetModule -template C:/Xilinx/14.2/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 EthernetModule.spl C:/Users/cmulady/Documents/XILINX/eth_module_opencores/EthernetModule.sym 
+vhdtdtfi -lib work C:/Users/cmulady/Documents/XILINX/eth_module_opencores/EthernetModule.v -lang verilog -prj eth_module_opencores -o EthernetModule.spl -module EthernetModule -template C:/Xilinx/14.2/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 EthernetModule.spl C:/Users/cmulady/Documents/XILINX/eth_module_opencores/EthernetModule.sym 
+vhdtdtfi -lib work C:/Users/cmulady/Documents/XILINX/eth_module_opencores/EthernetModule.v -lang verilog -prj eth_module_opencores -o EthernetModule.spl -module EthernetModule -template C:/Xilinx/14.2/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 EthernetModule.spl C:/Users/cmulady/Documents/XILINX/eth_module_opencores/EthernetModule.sym 
+vhdtdtfi -lib work C:/Users/cmulady/Documents/XILINX/eth_module_opencores/EthernetModule.v -lang verilog -prj eth_module_opencores -o EthernetModule.spl -module EthernetModule -template C:/Xilinx/14.2/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 EthernetModule.spl C:/Users/cmulady/Documents/XILINX/eth_module_opencores/EthernetModule.sym 
+vhdtdtfi -lib work C:/Users/cmulady/Documents/XILINX/eth_module_opencores/EthernetModule.v -lang verilog -prj eth_module_opencores -o EthernetModule.spl -module EthernetModule -template C:/Xilinx/14.2/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 EthernetModule.spl C:/Users/cmulady/Documents/XILINX/eth_module_opencores/EthernetModule.sym 
+vhdtdtfi -lib work C:/Users/cmulady/Documents/XILINX/eth_module_opencores/EthernetModule.v -lang verilog -prj eth_module_opencores -o EthernetModule.spl -module EthernetModule -template C:/Xilinx/14.2/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 EthernetModule.spl C:/Users/cmulady/Documents/XILINX/eth_module_opencores/EthernetModule.sym 

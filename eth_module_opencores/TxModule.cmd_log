@@ -1,0 +1,4 @@
+vhdtdtfi -lib work C:/Users/cmulady/Documents/XILINX/eth_module_opencores/TxModule.v -lang verilog -prj eth_module_opencores -o TxModule.spl -module TxModule -template C:/Xilinx/14.2/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 TxModule.spl C:/Users/cmulady/Documents/XILINX/eth_module_opencores/TxModule.sym 
+vhdtdtfi -lib work C:/Users/cmulady/Documents/XILINX/eth_module_opencores/TxModule.v -lang verilog -prj eth_module_opencores -o TxModule.spl -module TxModule -template C:/Xilinx/14.2/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 TxModule.spl C:/Users/cmulady/Documents/XILINX/eth_module_opencores/TxModule.sym 
